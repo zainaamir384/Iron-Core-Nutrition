@@ -6,6 +6,9 @@ Iron Core Nutrition is a modern frontend landing page project based on a gym sup
 
 This project was created to practice modern UI design, responsive layouts, dark theme styling, smooth animations, product sections, and clean frontend development.
 
+## Live demo 
+https://iron-core-nutrition.vercel.app/
+
 ## Project Overview
 
 The website uses a premium black theme with red and blue accents. It includes a modern landing page layout for supplement products, benefits, product stacks, athlete-style sections, reviews, and a final call-to-action area.
